@@ -1,0 +1,21 @@
+p {
+    color: red;
+    background-color: rgb(150, 201, 184);
+    height: 30px;
+    width: 500px;
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(183, 100, 225);
+}
+h3{
+    color: royalblue;
+}
+#putin{color: rgb(252, 127, 211);
+
+}
+#usa{
+    background-color: aquamarine;
+    color: rgb(226, 195, 43);
+}
